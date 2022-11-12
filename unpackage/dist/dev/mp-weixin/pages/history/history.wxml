@@ -1,0 +1,1 @@
+<view class="history data-v-24bfa630"><view wx:for="{{a}}" wx:for-item="item" class="row data-v-24bfa630"><newsbox class="data-v-24bfa630" u-i="{{item.a}}" bind:__l="__l"></newsbox></view></view>

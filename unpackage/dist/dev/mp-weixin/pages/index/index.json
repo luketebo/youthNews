@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "青年新闻帮",
+  "backgroundColor": "#199c33",
+  "usingComponents": {
+    "newsbox": "../../components/newsbox/newsbox"
+  }
+}
